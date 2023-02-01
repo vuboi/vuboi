@@ -51,9 +51,6 @@ Here are some ideas to get you started:
 
 ###
 
-<br clear="both">
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/vuboi/count.svg?"  />
 </div>
