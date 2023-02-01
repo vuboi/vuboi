@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<h2 align="left">Hi 👋! My name is Boi and I'm a frontend developer from VietNam</h2>
 <!--
 **vuboi/vuboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi 👋! My name is Boi and I'm a frontend developer from VietNam</h2>
 
 ###
 
